@@ -60,3 +60,6 @@ https://how2j.cn/k/springboot/springboot-thymeleat/1735.html
 https://caniuse.com/?search=es6
 
 TortoiseGit帮助传git  A5m2看数据库
+
+javascript实现两个select选择框内容动态绑定(包含后台）
+https://blog.csdn.net/xuelangcxy/article/details/52037663
